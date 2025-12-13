@@ -71,7 +71,7 @@ _KBS 2025_
 
 # 🌍 Services
 
-Invited as reviewer: TPAMI, TIP, TCSVT, TMM, TNNLS, TIM, TAES, TII, [TGRS](https://iclr.cc/Conferences/2026), JSTAR, GRSL, TIFS, OLT, EAAI, SPL, IoT...
+Invited as reviewer: TPAMI, TIP, TCSVT, TMM, TNNLS, TIM, TAES, TII, TGRS, JSTAR, GRSL, TIFS, OLT, EAAI, SPL, IoT...
 
 <style>
 .experience-box {
@@ -157,6 +157,7 @@ If you are interested, feel free to contact me by email: shuozhuang@hfut.edu.cn
 
 <strong>Eligible majors:</strong>
 Information &amp; Communication Engineering, Communication Engineering, Computer Science &amp; Technology, Computer Technology, Artificial Intelligence, etc.
+
 
 
 
