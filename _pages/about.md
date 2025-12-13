@@ -113,7 +113,7 @@ Invited as reviewer: TPAMI, TIP, TCSVT, TMM, TNNLS, TIM, TAES, TII, [TGRS](https
   </div>
   <div class="experience-text" markdown="1">
 
-### University of Illinois Chicago
+### Hefei University of Technology
 
 2020.08 - Now  
 Lecture 
@@ -157,6 +157,7 @@ If you are interested, feel free to contact me by email: shuozhuang@hfut.edu.cn
 
 <strong>Eligible majors:</strong>
 Information &amp; Communication Engineering, Communication Engineering, Computer Science &amp; Technology, Computer Technology, Artificial Intelligence, etc.
+
 
 
 
