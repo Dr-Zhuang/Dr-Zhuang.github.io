@@ -53,7 +53,7 @@ _TIM 2025_
 </div>
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">KBS 2025 main</div><img src='images/TSI.jpg' alt="sym" width="70%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">KBS 2025</div><img src='images/TSI.jpg' alt="sym" width="70%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 **A Temporal-Semantic Interaction Network for multi-frame infrared small target detection**
@@ -156,6 +156,7 @@ If you are interested, feel free to contact me by email: shuozhuang@hfut.edu.cn
 
 <strong>Eligible majors:</strong>
 Information &amp; Communication Engineering, Communication Engineering, Computer Science &amp; Technology, Computer Technology, Artificial Intelligence, etc.
+
 
 
 
