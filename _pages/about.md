@@ -26,7 +26,7 @@ I have published over <strong>30 academic papers</strong> in journals and confer
 
 <p style="text-align: center;">
 <a href="mailto:shuozhuang@hfut.edu.cn">Email</a> / 
-<a href="https://faculty.hfut.edu.cn/zhuangshuo/zh_CN/index.htm">主页>za> / 
+<a href="https://faculty.hfut.edu.cn/zhuangshuo/zh_CN/index.htm">主页</a> / 
 <a href="assets/pdf/CV_zs.pdf">CV</a>
 </p>
 
@@ -157,5 +157,6 @@ If you are interested, feel free to contact me by email: shuozhuang@hfut.edu.cn
 
 <strong>Eligible majors:</strong>
 Information &amp; Communication Engineering, Communication Engineering, Computer Science &amp; Technology, Computer Technology, Artificial Intelligence, etc.
+
 
 
