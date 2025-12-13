@@ -109,7 +109,7 @@ Invited as reviewer: TPAMI, TIP, TCSVT, TMM, TNNLS, TIM, TAES, TII, TGRS, JSTAR,
 
 <div class="experience-box">
   <div class="experience-image">
-    <img src="images/hfut.jpg" alt="HFUT logo">
+    <img src="images/hfut2.jpg" alt="HFUT logo">
   </div>
   <div class="experience-text" markdown="1">
 
@@ -156,6 +156,7 @@ If you are interested, feel free to contact me by email: shuozhuang@hfut.edu.cn
 
 <strong>Eligible majors:</strong>
 Information &amp; Communication Engineering, Communication Engineering, Computer Science &amp; Technology, Computer Technology, Artificial Intelligence, etc.
+
 
 
 
