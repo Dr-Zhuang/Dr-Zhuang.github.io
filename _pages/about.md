@@ -136,7 +136,6 @@ Ph.D., M.Sc., B.Eng.
 </div>
 
 # 🎖 Selected Honors and Awards
-_Click <a href="assets/pdf/certificates.pdf">here</a> to view all certificates_
 
 - *2025.12* 
 - *2025.10* 
@@ -157,6 +156,7 @@ If you are interested, feel free to contact me by email: shuozhuang@hfut.edu.cn
 
 <strong>Eligible majors:</strong>
 Information &amp; Communication Engineering, Communication Engineering, Computer Science &amp; Technology, Computer Technology, Artificial Intelligence, etc.
+
 
 
 
