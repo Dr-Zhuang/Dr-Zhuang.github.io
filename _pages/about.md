@@ -142,12 +142,12 @@ Ph.D., M.Sc., B.Eng.
 - *2025.09* 
 - *2023.08* <strong> Gold Award🥇 </strong> .
 
-# 🌈 Miscellaneous
+# 🌈 Student Recruitment
 
 I am looking for motivated students who:
 
 Have strong self-learning ability and are proactive in communication</li>
-Have taken or are familiar with pattern recognition, machine learning, or computer vision</li>
+Have taken or are familiar with pattern recognition, machine learning, or computer vision.
 
 I adopt a <strong>task-oriented training style</strong>, allowing flexible time arrangements. Students can choose a development pathway focusing on either <strong>engineering practice</strong>
 or <strong>research ability</strong>.
@@ -156,6 +156,7 @@ If you are interested, feel free to contact me by email: shuozhuang@hfut.edu.cn
 
 <strong>Eligible majors:</strong>
 Information &amp; Communication Engineering, Communication Engineering, Computer Science &amp; Technology, Computer Technology, Artificial Intelligence, etc.
+
 
 
 
