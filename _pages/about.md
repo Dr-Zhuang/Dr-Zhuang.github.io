@@ -123,7 +123,7 @@ Lecture
 
 <div class="experience-box">
   <div class="experience-image">
-    <img src="images/tju.jpg" alt="TJU logo">
+    <img src="images/tju1.jpg" alt="TJU logo">
   </div>
   <div class="experience-text" markdown="1">
 
@@ -156,6 +156,7 @@ If you are interested, feel free to contact me by email: shuozhuang@hfut.edu.cn
 
 <strong>Eligible majors:</strong>
 Information &amp; Communication Engineering, Communication Engineering, Computer Science &amp; Technology, Computer Technology, Artificial Intelligence, etc.
+
 
 
 
